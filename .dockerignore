@@ -1,0 +1,9 @@
+# Only runtime files belong in the build context.
+**
+!app.py
+!core.py
+!requirements.txt
+!data/
+!data/sources.json
+!Dockerfile
+!.dockerignore
